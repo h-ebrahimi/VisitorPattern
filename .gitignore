@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/VisitorPattern.App/bin/Debug/net6.0
+/VisitorPattern.App/obj
